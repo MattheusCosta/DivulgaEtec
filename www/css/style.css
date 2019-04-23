@@ -74,3 +74,28 @@ h2{
   margin-top: 1%;
   text-align: center;
 }
+#etec{
+  color: white; 
+  font-weight: bold; 
+  font-size: 17px; 
+  margin-top: 20px;
+}
+#etec2{
+  color: white; 
+  font-weight: bold; 
+  font-size: 17px; 
+  margin-top: 25px;
+}
+#etec3{
+  color: white;
+}
+#etec4{
+  color: white; 
+  font-weight: bold; 
+  font-size: 17px; 
+  margin-top: 30px;
+}
+#etec5{
+  color: white; 
+  font-size: 12px;
+}
